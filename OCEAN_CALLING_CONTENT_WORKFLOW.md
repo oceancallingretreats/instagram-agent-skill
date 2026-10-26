@@ -37,3 +37,9 @@ Updated: 26 October 2026. Canonical source of content status: [Notion OCR Conten
 | OCR-013 | Founder fear-to-ocean connection | Draft |
 
 **Always re-check current status in Notion and publishing platform. This document captures the 26 Oct 2026 baseline, not a live sync.**
+
+## Editorial correction — 26 October 2026 (supersedes short-caption examples)
+
+User explicitly rejected brief, bland captions as unsuitable. **Do not present a short factual summary as a finished caption.** New minimum quality bar: open with a specific, surprising hook; write an engaging substantial narrative in 4–7 natural paragraphs, adding multiple *verified* insights, mechanisms, context, species names and useful search phrases in natural prose; include one human observation or light witty line only where fitting; end with a relevant engagement question and a specific reason to follow `@oceancallingretreats`; add clear sources. Stay below Instagram's 2,200-character limit including CTA and source line. Aim to use most of the available length when the story warrants it, without filler. No one-sentence-per-line formatting, generic AI slogans, or keyword stuffing.
+
+Reels OCR-006 through OCR-013: the earlier short text in Notion was flagged **superseded** on 26 Oct 2026; the complete replacement copy was delivered in the ChatGPT conversation that day and requires transfer/approval before scheduling. **Do not reuse the old Notion captions.** Their status remains Draft, not scheduled. The five Mola mola Reels remain Scheduled.
