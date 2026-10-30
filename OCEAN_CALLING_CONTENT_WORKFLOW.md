@@ -57,3 +57,18 @@ Before proposing only new wildlife species/topics, inspect current Reel performa
 **Quality gate:** Scientific proof, accurate footage, welfare and copyright clearance and comment trust override raw views. Do not manufacture recency/urgency. Aim for a fully checked 2,100–2,200-character Instagram caption *inclusive* of sources, credit, CTA and spaces (explicit minimum 2,100; supersedes previous under-2,200-only policy). Paragraphs, natural voice, no hashtags.
 
 Canonical [Watch-Time Diagnosis & Recut SOP](https://github.com/oceancallingretreats/ocean-reels/blob/main/docs/sop/watch-time-diagnosis-and-recut.md). Use this together with Wildlife Intelligence, Hook Intelligence and Reel Intelligence for all future posts, but do not claim any guaranteed view increase.
+
+## CTA and hook specificity update — 30 October 2026
+
+The user supplied a creator carousel contrasting generic hooks with specific, curiosity-led hooks, and requested adding save, share/send-to-friend and follow calls to action. Treat its 100-versus-1M view figures as illustrative marketing claims, **not verified evidence or guaranteed outcomes**.
+
+**Hook upgrade:** Replace broad category openings (e.g., 'Amazing facts about sharks') with a specific, evidence-supported behavior, contrast, question or real viewer relevance (e.g., 'This shark embryo can eat its siblings before birth' only for species where documented). Aim for one clear promise, truthful evidence and an immediate visual payoff. Do not force 'pain points', artificial urgency, invented first-person stories or generic hyperbole into wildlife education.
+
+**Intent-led CTA library:**
+- **Save intent** (reference-worthy science): 'Save this Reel for the next time someone asks why whales do this.' / 'Save this for your next ocean fact rabbit hole.' Only when genuinely useful to revisit.
+- **Share intent** (surprising/emotional): 'Send this to the friend who loves sharks.' / 'Share this with your ocean-obsessed bestie.' Avoid suggesting harassment or disturbing wildlife.
+- **Follow intent** (future discovery): 'Follow @oceancallingretreats for more strange and wonderful wildlife science.' Keep natural and concise.
+
+**Placement:** Choose **one primary CTA** aligned to the Reel's audience purpose; optional secondary soft 'follow for more' in the caption if natural. Don't cram 'save, send, comment, follow' into one ending. Test end-card/on-screen versus final-caption CTA independently; preserve retention by not stretching the final scene. Do not claim CTA wording alone causes reach or follows.
+
+**Measurement:** Track saves/reach for save-led Reels, sends/shares/reach for share-led, follows/reach and profile-visit conversion for follow-led; examine comment sentiment and trust. Compare against comparable posts and avoid interpreting reach as proof of the hook alone. Keep verified science, creator credit, animal-welfare context, and the user's mandatory 2,100–2,200-character caption (including references and CTA).
