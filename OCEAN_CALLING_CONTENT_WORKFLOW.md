@@ -43,3 +43,17 @@ Updated: 26 October 2026. Canonical source of content status: [Notion OCR Conten
 User explicitly rejected brief, bland captions as unsuitable. **Do not present a short factual summary as a finished caption.** New minimum quality bar: open with a specific, surprising hook; write an engaging substantial narrative in 4–7 natural paragraphs, adding multiple *verified* insights, mechanisms, context, species names and useful search phrases in natural prose; include one human observation or light witty line only where fitting; end with a relevant engagement question and a specific reason to follow `@oceancallingretreats`; add clear sources. Stay below Instagram's 2,200-character limit including CTA and source line. Aim to use most of the available length when the story warrants it, without filler. No one-sentence-per-line formatting, generic AI slogans, or keyword stuffing.
 
 Reels OCR-006 through OCR-013: the earlier short text in Notion was flagged **superseded** on 26 Oct 2026; the complete replacement copy was delivered in the ChatGPT conversation that day and requires transfer/approval before scheduling. **Do not reuse the old Notion captions.** Their status remains Draft, not scheduled. The five Mola mola Reels remain Scheduled.
+
+## Mandatory retention-led reuse workflow — 30 October 2026
+
+Before proposing only new wildlife species/topics, inspect current Reel performance and shortlist eligible older concepts for a *second-chance recut*. Use actual available retention data rather than treating low views as proof the topic failed. Link the original and every new version under one stable Reel/topic ID.
+
+**Three editing levers:** Test a better truthful opening visual while holding a good spoken hook constant; simplify to one central reveal and up to two points (extra science in the caption); and insert earned, scientifically accurate mini curiosity gaps with full payoffs throughout the video.
+
+**Watch-time diagnosis is provisional:** Immediate cliff → inspect opening visual/hook; promising opening then early cliff → test an explanation of relevance; steady fade → simplify concept/stakes; halfway drop → test visual progression or rehook; end drop → tighten ending or genuine twist. Watch-time curves reveal when viewers depart, not why.
+
+**Required test record:** Original and variant URLs, Reel ID, species and claim, rights/creator, version/date/length, first frame, on-screen and spoken hooks, changes, drop timestamps matched to narration/visuals, hypothesis, retention and early hold, reach/plays, shares/saves, follows, comments/trust flags, audience mix and comparison window. Record missing metrics as unavailable, never zero. Keep a single main change per test when feasible; do not treat two non-random posts as causal proof.
+
+**Quality gate:** Scientific proof, accurate footage, welfare and copyright clearance and comment trust override raw views. Do not manufacture recency/urgency. Aim for a fully checked 2,100–2,200-character Instagram caption *inclusive* of sources, credit, CTA and spaces (explicit minimum 2,100; supersedes previous under-2,200-only policy). Paragraphs, natural voice, no hashtags.
+
+Canonical [Watch-Time Diagnosis & Recut SOP](https://github.com/oceancallingretreats/ocean-reels/blob/main/docs/sop/watch-time-diagnosis-and-recut.md). Use this together with Wildlife Intelligence, Hook Intelligence and Reel Intelligence for all future posts, but do not claim any guaranteed view increase.
